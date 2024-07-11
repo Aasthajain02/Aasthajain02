@@ -1,16 +1,32 @@
-## Hi there 👋
+# **Heya, I am @AasthaJain02**
+### 💬 Music lyrics are magical chants :)
 
-<!--
-**Aasthajain02/Aasthajain02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/Nitya-Pasrija/badges)
+<img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp; ***About me***
+- 🎓 I'm a developer, and a junior at KIET Groups of institutions, CSEAI.
+- 💡 Interested in working alongside like-minded people, enthusiastic about various developer tools 
+- 💞️ Looking forward to collaborating on projects that make an impact <3
+- ⚡ Crying over DSA (in C++)👀👀 
+- ✉️ You can reach out to me at: aasthaj296@gmail.com or on the following icons >.<
 
-Here are some ideas to get you started:
+<p align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ <div align="center"  class="icons-social" style="margin-left: 10px;">
+        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/aastha-jain-95998b225/">
+			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
+        <a style="margin-left: 10px;" target="_blank" href="https://github.com/Aasthajain02">
+		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
+
+      </div>
+
+</p>
+
+## Languages and Tools
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,c,cpp,python,java,Django Machine Learning, Computer Vision ,css,html,js,mysql,py,firebase,mongodb&perline=9" />
+  </a>
+</p>
+
