@@ -4,7 +4,7 @@
 [![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/Nitya-Pasrija/badges)
 <img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp; ***About me***
-- 🎓 I'm a developer, and a Machine Learning enthisiast at KIET Groups of institutions, CSEAI.
+- 🎓 I'm a developer, and a Machine Learning enthusiast at KIET Groups of institutions, CSEAI.
 - 💡 Interested in working alongside like-minded people, enthusiastic about various developer tools 
 - 💞️ Looking forward to collaborating on projects that make an impact <3
 - ⚡ Crying over DSA (in C++)👀👀 
